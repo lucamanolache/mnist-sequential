@@ -1,0 +1,10 @@
+matplotlib==3.7.1
+numpy==1.23.5
+numpy==1.24.3
+pandas==2.0.1
+pygame==2.4.0
+rich==13.4.1
+torch==2.0.1+cu118
+torch==2.1.0.dev20230609
+torchsummary==1.5.1
+tqdm==4.65.0
